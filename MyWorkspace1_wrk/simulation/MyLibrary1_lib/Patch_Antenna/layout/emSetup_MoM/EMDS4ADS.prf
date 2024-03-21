@@ -1,0 +1,51 @@
+Begin_Block  Header 
+  
+  Mode  ASCII 
+  File_Name  C:/Users/user/MyWorkspace1_wrk/simulation/MyLibrary1_lib/Patch_Antenna/layout/emSetup_MoM/EMDS4ADS.prf 
+  Version  3.00 
+  
+End_Block  Header 
+
+Begin_Block  Data 
+  
+  Begin_Preferences 
+  
+  Begin_Material_Block 
+  Material cond     9.3333333333333335e-01      4.1568627450980394e-01      3.1372549019607843e-01  
+  Material __SubstrateLayer1     1.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  Material __BOTTOM     0.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  End_Material_Block 
+  
+  Begin_Color_Block 
+  Object __SubstrateLayer1_1     1.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  Object __BOTTOM_2     0.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  Object cond_3     9.3333333333333335e-01      4.1568627450980394e-01      3.1372549019607843e-01  
+  End_Color_Block 
+  
+  Begin_Visible_Block 
+  Object __SubstrateLayer1_1 1  0  80  
+  Object __BOTTOM_2 1  0  50  
+  Object cond_3 1  0  50  
+  End_Visible_Block 
+  
+  Begin_Plane_Block 
+  Planes 0  
+  End_Plane_Block 
+  
+  Begin_Camera_Block 
+  Position     9.8190757751464844e+01     -9.9148391723632812e+01      6.8971885681152344e+01  
+  Target     2.3356422424316406e+01      3.2671680450439453e+00      1.1046640396118164e+01  
+  Up    -9.1888504102826118e-03      4.8718711733818054e-01      8.7324935197830200e-01  
+      5.5777351379394531e+01      5.5777351379394531e+01  
+  End_Camera_Block 
+  
+  Begin_Background_Block 
+  Top_Color     0.0000000000000000e+00      0.0000000000000000e+00      0.0000000000000000e+00  
+  Bottom_Color     0.0000000000000000e+00      0.0000000000000000e+00      0.0000000000000000e+00  
+  Shadow 0  
+  End_Background_Block 
+  
+  End_Preferences 
+  
+End_Block  Data 
+
