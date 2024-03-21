@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE MyLibrary14_lib MyLibrary14_lib
+ASSIGN MyLibrary14_lib libMode shared
