@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      user
+HostName                       DESKTOP-S7TL0H2
+ProcessIdentifier              2100
+ProcessCreationTime_UTC        1685865004
+ProcessCreationTime_Readable   Sun Jun  4 13:50:04 2023 Bangladesh Standard Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\user\MyWorkspace15_wrk\MyLibrary15_lib\tech.db.cdslck
+TimeEditLocked                 Sun Jun  4 14:05:14 2023 Bangladesh Standard Time
