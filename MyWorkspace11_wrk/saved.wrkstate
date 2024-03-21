@@ -1,0 +1,9 @@
+<!DOCTYPE SaveWorkspaceState>
+<SaveWorkspaceState>
+    <Windows>
+        <Substrate y1="30" file="substrate1" lib="MyLibrary11_lib" width="1536" height="961" x1="169" geom="1,0,0,170,68,1536,961,1920,1080"/>
+        <DDS name="cell_1.dds"/>
+        <DDS name="EM_FarFieldCut.dds"/>
+    </Windows>
+    <MainWindowTab tab="1"/>
+</SaveWorkspaceState>
